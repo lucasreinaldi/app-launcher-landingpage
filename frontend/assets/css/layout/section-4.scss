@@ -1,0 +1,48 @@
+.section-4 {
+
+    .container {
+        width: 100%;
+        padding-top: 0px;
+    } 
+    
+    .image {
+        background: url(../img/section-4-image.jpg) center bottom repeat-x;
+        -webkit-background-size: cover;
+        background-size: cover;
+        height: 500px;
+    }
+
+    .text {
+        height: 500px;
+    }
+
+    .wrapper {
+        padding: 16%;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    button {
+        width: 150px;
+        background-color: white;
+        margin-top: 3em;
+        height: 40px;
+        color: white;
+        border-radius: 99px !important;
+        border: 0px;
+        font-size: 0.9em;
+        border-radius: 0.3em;
+        box-shadow: 0 2px 6.65px 0.35px rgba(0, 0, 0, 0.3);        
+    }
+
+    .button-1 {
+        background-color: $accent;
+    }
+
+    .button-2 {
+        color: $accent;
+        border: 2px solid $accent;
+    }
+}

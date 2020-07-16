@@ -1,2 +1,3 @@
-# landingpage-template
-Travel agency landing page using SASS
+# Travel Agency Landing Page
+
+made by lucasreinaldi
