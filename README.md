@@ -5,7 +5,7 @@
 
 ```javascript
 const travel-agency = {
-  tools: ['Html', 'Sass', 'Javascript', 'Gulp'],
+  tools: ['html', 'sass', 'javascript', 'gulp'],
   architecture: ['static'],
     done: '10%'
 }
