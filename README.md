@@ -4,7 +4,7 @@
 ### About the repo:  
 
 ```javascript
-const travel-agency = {
+const app-launcher = {
   tools: ['html', 'less', 'bootstrap', 'jquery', 'gulp'],
   architecture: ['static'],
   done: '10%'
