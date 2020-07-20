@@ -1,11 +1,11 @@
-<h2>Travel Agency Landing Page</h2>
-<p>template created using Bootstrap 4, jQuery and Sass</p>
+<h2>App Launch Landing Page</h2>
+<p>template created using Bootstrap 4, jQuery and Less</p>
 
 ### About the repo:  
 
 ```javascript
 const travel-agency = {
-  tools: ['html', 'sass', 'bootstrap', 'jquery', 'gulp'],
+  tools: ['html', 'less', 'bootstrap', 'jquery', 'gulp'],
   architecture: ['static'],
   done: '10%'
 }
