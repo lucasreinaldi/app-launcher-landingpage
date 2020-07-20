@@ -1,5 +1,5 @@
 <h2>App Launch Landing Page</h2>
-<p>created using sass and less as stylesheets frameworks and jquery to animations and gulp to frontend tasks</p>
+<p>created using sass and less as stylesheets frameworks, jquery to animations and gulp to frontend tasks</p>
 
 ### About the repo:  
 
