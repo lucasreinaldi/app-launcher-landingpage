@@ -1,5 +1,5 @@
 <h2>App Launch Landing Page</h2>
-<p>template created using Bootstrap 4, jQuery and Less</p>
+<p>created using sass and less as stylesheets frameworks and jquery to animations and gulp to frontend tasks</p>
 
 ### About the repo:  
 
